@@ -1,0 +1,40 @@
+{
+    "_id" : "fs3Afny2aEnegkepv",
+    "companyId" : "LH9aTkaysZSK74RFE",
+    "date" : ISODate("2018-01-01T00:00:00.000Z"),
+    "balanceSheet" : [
+        {
+            "i" : 1, // CODIGO SEQUENCIAL
+            "classification" : "1", // COLUNA 0 DA STRING
+            "description" : "ATIVO", // DESCRIÇÃO COLUNA 1 DA STRING
+            "description_nd" : "ATIVO", // DESCRIÇÃO COLUNA 1 DA STRING SEM Diacritics
+            "initialCash" : 127871.93, // COLUNA Nº 3 de valores da string
+            "debit" : 114098.6, // COLUNA Nº 4 de valores da string
+            "credit" : 149822.3,// COLUNA Nº 5 de valores da string
+            "finalCash" : 92148.23, // COLUNA Nº 6 de valores da string
+           
+ 
+        },
+        {
+            "i" : 1, // CODIGO SEQUENCIAL
+            "classification" : "1", // COLUNA 0 DA STRING
+            "description" : "ATIVO", // DESCRIÇÃO COLUNA 1 DA STRING
+            "description_nd" : "ATIVO", // DESCRIÇÃO COLUNA 1 DA STRING SEM Diacritics
+            "initialCash" : 127871.93, // COLUNA Nº 3 de valores da string
+            "debit" : 114098.6, // COLUNA Nº 4 de valores da string
+            "credit" : 149822.3,// COLUNA Nº 5 de valores da string
+            "finalCash" : 92148.23, // COLUNA Nº 6 de valores da string
+        },
+        {
+           "i" : 1, // CODIGO SEQUENCIAL
+            "classification" : "1", // COLUNA 0 DA STRING
+            "description" : "ATIVO", // DESCRIÇÃO COLUNA 1 DA STRING
+            "description_nd" : "ATIVO", // DESCRIÇÃO COLUNA 1 DA STRING SEM Diacritics
+            "initialCash" : 127871.93, // COLUNA Nº 3 de valores da string
+            "debit" : 114098.6, // COLUNA Nº 4 de valores da string
+            "credit" : 149822.3,// COLUNA Nº 5 de valores da string
+            "finalCash" : 92148.23, // COLUNA Nº 6 de valores da string
+        }
+       
+    ]
+}
